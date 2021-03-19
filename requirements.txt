@@ -2,7 +2,7 @@ appdirs==1.4.3
 distlib==0.3.0
 Django==2.2
 django-filter==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 filelock==3.0.12
 Markdown==3.2.1
 psycopg2==2.8.4
